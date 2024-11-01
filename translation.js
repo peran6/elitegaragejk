@@ -5,7 +5,10 @@ const translations = {
         "menu_item2": "About us",
         "menu_item3": "Services",
         "menu_item4": "Projects",
-        "menu_item5": "Contact"
+        "menu_item5": "Contact",
+        "home_1": "// Elite Garage JK - General Car Service //",
+        "home_2": "Stay tuned!",
+        "home_3": "Our website is coming soon"
     },
     "gr": {
         "address": "Βύρωνας Φλέμινγκ 85 & Αλικαρνασσού",
@@ -13,7 +16,10 @@ const translations = {
         "menu_item2": "Σχετικά με μας",
         "menu_item3": "Υπηρεσίες",
         "menu_item4": "Projects",
-        "menu_item5": "Επικοινωνία"
+        "menu_item5": "Επικοινωνία",
+        "home_1": "// Elite Garage JK - Γενικό Συνεργείο Aυτοκινήτων //",
+        "home_2": "Stay tuned!",
+        "home_3": "Η ιστοσελίδα μας έρχεται σύντομα"
     }
 };
 
