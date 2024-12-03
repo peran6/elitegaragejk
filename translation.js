@@ -7,6 +7,11 @@ const translations = {
         "menu_item4": "Projects",
         "menu_item5": "Contact",
         "menu_item6": "Modern",
+        "menu_item7": "Historic cars",
+        "menu_item7.1": "Racing",
+        "menu_item8": "Rentals of Historic Races",
+        "menu_item8.1": "Rental",
+        "menu_item9": "Historic",
         "home_1": "// Elite Garage JK - General Car Service //",
         "home_2": "Stay tuned!",
         "home_3": "Our website is coming soon"
@@ -19,6 +24,11 @@ const translations = {
         "menu_item4": "Projects",
         "menu_item5": "Επικοινωνία",
         "menu_item6": "Σύγχρονα",
+        "menu_item7": "Ιστορικά Αγωνιστικά",
+        "menu_item7.1": "Αγωνιστικά",
+        "menu_item8": "Ενικοιάσεις Ιστορικών Αγωνιστικών",
+        "menu_item8.1": "Ενικοιάσεις Αγωνιστικών",
+        "menu_item9": "Ιστορικά",
         "home_1": "// Elite Garage JK - Γενικο Συνεργειο Aυτοκινητων //",
         "home_2": "Stay tuned!",
         "home_3": "Η ιστοσελίδα μας έρχεται σύντομα"
